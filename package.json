@@ -1,0 +1,14 @@
+{
+  "name": "datocms-https",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@datocms/cma-client-node": "^3.3.5"
+  }
+}
